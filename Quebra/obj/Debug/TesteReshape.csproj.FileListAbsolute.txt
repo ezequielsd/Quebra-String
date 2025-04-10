@@ -1,0 +1,14 @@
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\bin\Debug\TesteReshape.exe.config
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\bin\Debug\TesteReshape.exe
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\bin\Debug\TesteReshape.pdb
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\obj\Debug\TesteReshape.csproj.AssemblyReference.cache
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\obj\Debug\TesteReshape.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\obj\Debug\TesteReshape.exe
+C:\Users\ezequiel.daniel\source\repos\TesteReshape\TesteReshape\obj\Debug\TesteReshape.pdb
+C:\github_ezequiel\Quebra-String\TesteReshape\bin\Debug\TesteReshape.exe.config
+C:\github_ezequiel\Quebra-String\TesteReshape\bin\Debug\TesteReshape.exe
+C:\github_ezequiel\Quebra-String\TesteReshape\bin\Debug\TesteReshape.pdb
+C:\github_ezequiel\Quebra-String\TesteReshape\obj\Debug\TesteReshape.csproj.AssemblyReference.cache
+C:\github_ezequiel\Quebra-String\TesteReshape\obj\Debug\TesteReshape.csproj.CoreCompileInputs.cache
+C:\github_ezequiel\Quebra-String\TesteReshape\obj\Debug\TesteReshape.exe
+C:\github_ezequiel\Quebra-String\TesteReshape\obj\Debug\TesteReshape.pdb
