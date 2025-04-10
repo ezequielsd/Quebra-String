@@ -1,5 +1,5 @@
 
-# 💻 Desafio da Semana: Dividir uma String com Espaços Preservando o Tamanho dos Segmentos em C#
+# 💻 Desafio: Dividir uma String com Espaços Preservando o Tamanho dos Segmentos em C#
 
 ## 📌 Introdução
 
